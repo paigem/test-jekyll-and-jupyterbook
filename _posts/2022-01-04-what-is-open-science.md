@@ -2,6 +2,7 @@
 layout: post
 title:  "What is open science?"
 image: assets/images/Girl_keyhole.png
+permalink: "/What-is-open-science/"
 ---
 Open science—opening up the scientific process from idea inception to result—increases access to knowledge and expands opportunities for participation. Sharing the data, code, results, and knowledge associated with the scientific process enables more inclusive, diverse and equitable participation in science, while also leading to more transparent, replicable and reproducible results. But achieving this openness requires changing how we work, to help us move forward together.
 
