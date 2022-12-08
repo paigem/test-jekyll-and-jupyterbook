@@ -1,6 +1,6 @@
 title: "NASA TOPS"
 timezone: UTC
-baseurl: "https://paigem.github.io/test-jekyll-and-jupyterbook/"
+baseurl: "test-jekyll-and-jupyterbook/"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
